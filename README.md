@@ -37,6 +37,7 @@ These instructions will get you a copy of the project up and running on your loc
 - JavaScript
 
 ## Demo
+https://shobhit50.github.io/food_app/
 
 
 ## Acknowledgments
